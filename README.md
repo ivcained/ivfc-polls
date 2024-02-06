@@ -8,6 +8,6 @@ so the votes cannot be spoofed, and the results are stored in a redis database.
 
 ## Demo
 
-- [https://fc-polls.vercel.app/](https://fc-polls.vercel.app/)
+Soon
 
 
